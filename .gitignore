@@ -1,0 +1,8 @@
+# 특별한 모듈은 필요 없어요
+node_modules
+# 직접 컴파일해서 쓰세요
+dist
+# 락할 필요 없어요.
+package-lock.json
+# idea 에서 만들었어요.
+.idea
